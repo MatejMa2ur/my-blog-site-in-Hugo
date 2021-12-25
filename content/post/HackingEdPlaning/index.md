@@ -9,7 +9,7 @@ tags = [
 categories = [
     "activities"
 ]
-image = "http://www.iiep.unesco.org/sites/default/files/hackathon_en.png"
+image = "introImage.png"
 +++
 
 # Hacking EdPlanning
@@ -18,12 +18,12 @@ image = "http://www.iiep.unesco.org/sites/default/files/hackathon_en.png"
 
 During the weekend from 29th to 31st January I attended the 48 online hackathon Hacking EdPlanning, organised by UNESCO International Institute for Educational Planning. This hackathon initiated 112 people from 12 countries, who helped with challenges to plan a brighter educational future.
 
-#### This was my first international Hackathon. 
+### This was my first international Hackathon. 
 I get the information about this hackathon from teacher at my school. I wrote him e-mail that I am interested and same thing did 4 other students and he registered us. We used Slack to agree on what challenge we will be working. There came some little issues with communication and all of us had a lot of things to do and personally I forgot that any hackathon will be. Thankfully to my calendar which sent me notification I didn't missed it. Opening ceremony was at Zoom but after the explanation of the challenges from the organizers we moved to the Discord where all the communication took a place.
 
 <hr/>
 
-##### 29th january
+## 29th january
 Cause of the bad communication with my original team I responded to message from Alex and he was thankful that I wanted to join them. Firstly, the Lisbonne team were group of 5 people but because of some random things that happened only 3 remained and I was the only one amongst them who know how to display data. All of us were beginners in data science but the other 3 guys (Alex, Clément, Étienne) were more interested in getting the data and better understanding the data.
 
 ![](https://mazur.blob.core.windows.net/obrazky/Sn%C3%ADmka%20obrazovky%202021-02-09%20214140.png?sv=2019-12-12&st=2021-02-09T20%3A42%3A53Z&se=2103-02-01T20%3A42%3A00Z&sr=b&sp=r&sig=cUn0nZlNBOfcyqj8b0vzS5%2B%2B2V7hSqe5YHfXak0d9Gw%3D)
@@ -36,7 +36,7 @@ After few hours at 22:00 my clock rang. Normally at school I stop working and I 
 
 <hr/>
 
-##### 30th January
+## 30th January
 
 The day started with breakfast. For most of us that is normal but this was online breakfast where we joined and between eating, we were talking. After that we have joined small standup where all teams presented what they have done and they want to proceed.
 
@@ -54,7 +54,7 @@ We also met one last time before the night at 21:00 and everyone presented what 
 
 <hr/>
 
-#### 31st January
+## 31st January
 
 This day the morning routine was same the breakfast and the stand-up. Alex was working really long on the topics for words so we could display them on the report. This created the word cloud and the topic with we can group and filter the data. Étiene was working on another table and representing words as values. Sadly Clément felt sick so he couldn't continue in his work, but his work was also helpful at 14:00 I get all the data that should have been displayed. The final event with presentation started around 16:30 so I had a plenty of time to change the sample data with the final. Alex was making fun of me because I said that it would be like 20 minutes to add them but after 2 minutes I unmuted myself and told them that it is done. 
 
